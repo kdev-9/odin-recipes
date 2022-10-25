@@ -1,0 +1,1 @@
+This projects purpose is to get us using HTML, by creating a simple recipe website. This will involve basic HTML and Git/Github workflow.
